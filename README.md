@@ -26,7 +26,7 @@ smatphone tablette ....
 possiblilités :
 
 plusieurs destinataires 
-data.mailto="11111.gmail.com;22222222.gmail.com"
+data.mailto="11111.gmail.com,22222222.gmail.com"
 
 ////
 
